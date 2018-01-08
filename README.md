@@ -1,2 +1,2 @@
-# python_bioinformatics
-This is a repository for the python scripts developed as part of my bioinformatics courses
+# Projects Summary Showcase
+This is a repository for the projects developed in stream of health data analytics
